@@ -22,3 +22,7 @@ Baton also will track container statues along their lifetime and in case of
 same service with same runtime arguments will be demanded it will return one 
 that already been started or start stopped one.
 
+Baton will provide you API with two basic methods: Attach and Detach.
+
+
+
